@@ -1,0 +1,1 @@
+This file will now appear in all node's shr directories to test latency differences
