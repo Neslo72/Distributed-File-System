@@ -1,3 +1,6 @@
+# Personal Post-Class Statement
+This repository was created for the third project in the _Intro to Distributed Systems_ course at the University of Minnesota.  I, Lucas Olsen, worked with 1 other partner to create the following implementation of a DFS using a combined network of coordinator and peer nodes.  Apart from this statement, the contents of this respository have not been edited since submission in May 2023: the grade we recieved was an A.
+
 # CSCI5105-P3
 This project was written by Thomas Reinitz (reini050) and Lucas Olsen (olse0280) for CSCI5105. It implements a distributed file system with peer nodes and a server coordinator. This README.md file is best viewed in a markdown compatible viewer, or on github through the following link: https://github.umn.edu/olse0280/CSCI5105_P3
 
